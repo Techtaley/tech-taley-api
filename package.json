@@ -5,7 +5,6 @@
   "homepage": "https://techtaley.github.io/tech-taley-api/data.json",
   "main": "server.js",
   "scripts": {
-    "build": "npm run deploy",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
