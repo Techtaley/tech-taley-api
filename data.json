@@ -23,7 +23,7 @@
 			{  
 				"id": "0",
 				"image": "https://expansivedesigns.com/tech-taley-portfolio/static/images/bug-tracker-thumbnail.jpg",
-				"title": "Bug Tracker Login Logout",	
+				"title": "Bug Tracker System",	
 				"desc": "Redux Toolkit | Slices, Thunk, Hooks, API Services",
 				"link": "https://techtaley.github.io/bug-tracker",
 				"code": "https://github.com/Techtaley/bug-tracker.git",
