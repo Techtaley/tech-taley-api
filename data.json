@@ -27,7 +27,7 @@
 				"desc": "Redux Toolkit | Slices, Thunk, Hooks, API Services",
 				"link": "https://techtaley.github.io/bug-tracker",
 				"code": "https://github.com/Techtaley/bug-tracker.git",
-				"api": "#",
+				"api": "https://techtaley.github.io/tech-taley-api/data.json",
 				"status": "Initial",
 				"category": "business"								
 			},
@@ -40,7 +40,7 @@
 				"link": "https://exdblog.herokuapp.com/",
 				"code": "https://github.com/expansivedesigns/exdblog",
 				"api": "https://github.com/expansivedesigns/exdblog/blob/master/server.js",				
-				"status": "Ongoing.",
+				"status": "Ongoing",
 				"category": "blog"								
 			},
 			{  
